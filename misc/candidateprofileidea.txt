@@ -1,0 +1,39 @@
+1. **Name:** Emily Nguyen
+   - **Profile:** Pro-Development, Pro-Social Spending, Innovation-Focused
+   - **Background:** A former urban planner and architect, Emily champions the idea of smart cities, integrating technology and innovative infrastructure projects to boost economic growth. She supports increased social spending to address issues like affordable housing and public transportation, funded through progressive tax reforms.
+   - **Campaign Focus:** Developing a tech hub, innovative public spaces, and enhanced social services.
+
+2. **Name:** John Carter
+   - **Profile:** Pro-Environment, Anti-Tax, Traditional Approaches
+   - **Background:** A third-generation farmer and environmentalist, John is dedicated to preserving green spaces and promoting sustainable agricultural practices. He is skeptical of tax increases and believes in maintaining low taxation to encourage small business growth. He advocates for using traditional, proven methods to manage the city's development sustainably.
+   - **Campaign Focus:** Conservation of natural resources, supporting local farms, and low tax policies.
+
+3. **Name:** Linda Morales
+   - **Profile:** Pro-Environment, Pro-Social Spending, Open to Innovation
+   - **Background:** With a background in social work and environmental science, Linda proposes integrating green technology into community services. She supports increasing social spending to bolster community health and educational services, advocating for funding through environmental taxes on large polluters.
+   - **Campaign Focus:** Green technology in public sectors, robust community services, and environmental justice.
+
+4. **Name:** Michael Thompson
+   - **Profile:** Pro-Development, Anti-Tax, Traditional Approaches
+   - **Background:** A real estate developer with a keen sense on market trends, Michael emphasizes economic growth through development and attracting businesses. He is wary of tax increases and prefers traditional economic models like incentivizing investments through tax breaks and minimal regulations.
+   - **Campaign Focus:** Economic growth through development, business-friendly policies without increasing taxes.
+
+5. **Name:** Sarah Goldstein
+   - **Profile:** Pro-Environment, Anti-Tax, Innovation-Focused
+   - **Background:** An entrepreneur in renewable energy, Sarah advocates for a shift towards a green economy with a focus on innovation without imposing new taxes. She supports creating economic incentives for businesses to adopt sustainable practices and wants to invest in renewable public energy projects.
+   - **Campaign Focus:** Promoting renewable energy, innovative environmental solutions, and tax-neutral initiatives.
+
+6. **Name:** Sam Mayers
+   - **Profile:** Pro-Development, Pro-Social Spending, Traditional Approaches
+   - **Background:** A seasoned local government official, Nhatty believes in the power of community growth through expansive social programs and traditional development projects. She advocates for using established models of public-private partnerships to stimulate both development and social program funding.
+   - **Campaign Focus:** Expanding community facilities, traditional urban development, and comprehensive social programs.
+
+7. **Name:** Roger Lin
+   - **Profile:** Pro-Environment, Pro-Social Spending, Traditional Approaches
+   - **Background:** An environmental lawyer, Roger focuses on stringent legislative measures to protect the environment while advocating for broad social support services like universal healthcare and public schooling, funded by a restructured progressive tax system.
+   - **Campaign Focus:** Strong environmental protection laws, widespread social services, and equitable tax reform.
+
+8. **Name:** Anna Schwartz
+   - **Profile:** Pro-Development, Anti-Tax, Innovation-Focused
+   - **Background:** A tech entrepreneur who has entered politics, Anna aims to transform the city into a startup haven by using innovative economic strategies and keeping taxes low to attract tech giants and startups alike. She promotes the development of digital infrastructure and smart city projects.
+   - **Campaign Focus:** Fostering a vibrant entrepreneurial ecosystem, digital transformation, and maintaining low tax rates to encourage business growth.

@@ -162,6 +162,9 @@ rankings_df_processed <- rank_matrix
 # tie = forward or backward tie breakrule
 # constant.quota = the quota can decrease as candidates are eliminated, here we set to constant
 
+# More on tie breaking here:
+# https://papers.ssrn.com/sol3/papers.cfm?abstract_id=886203 
+
 stvresults <- stv(rankings_df_processed, 
                   nseats=3, 
                   eps = 1, 
